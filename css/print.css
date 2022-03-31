@@ -1,0 +1,12 @@
+body {
+    font-family: Arial;
+}
+
+tr:nth-child(even) {
+    background-color: #bebebe;
+}
+
+h1 {
+    font-size: 1.5em;
+    text-align: center;
+}
